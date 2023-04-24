@@ -4,7 +4,7 @@
 This is a Python script that demonstrates a simple example of a Cross-Site Scripting (XSS) exploit for educational purposes and ethical purposes only. This script is intended to be used responsibly, for learning and understanding the security implications of XSS attacks, and should not be used for any illegal or unethical activities.
 
 ## Warning: 
-The Extractor script is intended for educational and ethical purposes only. The author of this script do not condone illegal activities and are not responsible for any misuse of the extracted dorks. Always use the extracted dorks responsibly and in accordance with the law.
+This script is intended for educational and ethical purposes only. The author of this script do not condone illegal activities and are not responsible for any misuse of the extracted dorks. Always use the extracted dorks responsibly and in accordance with the law.
 
 This script is part of a larger collection and was created to be used with caution. This is a Black-Phython-Script it will hack the sql Database of a website. For any damage you will pay, if you do not know what you do!
 
