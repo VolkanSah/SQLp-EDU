@@ -22,7 +22,7 @@ Modify the url variable in the script to the URL of the target website that you 
 Customize the payload variable with the SQL injection code or other malicious code that you want to inject.
 Run the script using Python 3:
 ```shell
-python xss_exploit.py
+python3 sqlpay_xss.py
 ```
 The script will send a request to the target URL with the injected SQL code, and the response will be printed to the console.
 ## Disclaimer
