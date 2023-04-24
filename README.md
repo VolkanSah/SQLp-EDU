@@ -28,8 +28,9 @@ The script will send a request to the target URL with the injected SQL code, and
 ## Disclaimer
 This script is for educational purposes only and should not be used for any illegal, unethical, or malicious activities. Always ensure that you have proper authorization before conducting any security testing or penetration testing on any website or system. The creator of this script is not responsible for any misuse or damages caused by using this script.
 
-## Contributing
-Contributions to this script are not accepted as it is intended for educational purposes only and not for production use.
+## Contributing or issues
+Contributions or issues to this script are not accepted as it is intended for educational purposes only and not for production use.
 
 ## License
 This script is released under the MIT License.
+
