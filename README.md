@@ -31,7 +31,7 @@ This script is for educational purposes only and should not be used for any ille
 ## Contributing or issues
 Contributions or issues to this script are not accepted as it is intended for educational purposes only and not for production use.
 # Credits
-[S. Volkan Kücükbudak[(https://github.com/volkansah)
+[Volkan Kücükbudak](https://github.com/volkansah)
 
 ## License
 This script is released under the MIT License.
