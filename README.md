@@ -29,7 +29,7 @@ The script will send a request to the target URL with the injected SQL code, and
 This script is for educational purposes only and should not be used for any illegal, unethical, or malicious activities. Always ensure that you have proper authorization before conducting any security testing or penetration testing on any website or system. The creator of this script is not responsible for any misuse or damages caused by using this script.
 
 ## issues
-issues to this script are not accepted as it is intended for educational purposes only and not for production use.
+Issues to this script are not accepted as it is intended for educational purposes only and not for production use.
 ## Credits
 [Volkan Kücükbudak](https://github.com/volkansah)
 
