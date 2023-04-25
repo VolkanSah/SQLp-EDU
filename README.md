@@ -1,5 +1,5 @@
 # SQL-Payload (XSS Exploit Script)
-###### (updated 04/2024)
+###### RedTeam Scripts by Volkan Sah - simple codings for 'Offensive Security' (Update 2023)
 ![Screenshot](sqlp_xss.png)
 ###### RedTeam (Black-Python-Script)
 This is a Python script that demonstrates a simple example of a Cross-Site Scripting (XSS) exploit for educational purposes and ethical hacking only. This script is intended to be used responsibly, for learning and understanding the security implications of XSS attacks, and should not be used for any illegal or unethical activities.
