@@ -1,4 +1,4 @@
-# SQL-Payload (XSS Exploit Script)
+# SQLp- SQL XSS Exploit Script .EDU
 ###### RedTeam Scripts by Volkan Sah - simple codings for 'Offensive Security' (Update 2023)
 ![Screenshot](sqlp_xss.png)
 ###### RedTeam (Black-Python-Script)
