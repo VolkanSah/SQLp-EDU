@@ -1,4 +1,4 @@
-# SQLp- SQL XSS Exploit Script .EDU
+# SQLp- SQL XSS Exploit Script Example for EDU
 ###### RedTeam Scripts by Volkan Sah - simple codings for 'Offensive Security' (Update 2023)
 ![Screenshot](sqlp_xss.png)
 ###### RedTeam (Black-Python-Script)
