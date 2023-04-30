@@ -55,9 +55,12 @@ This script is for educational purposes only and should not be used for any ille
 
 ## issues
 Issues to this script are not accepted as it is intended for educational purposes only and not for production use.
-## Credits
-[Volkan Kücükbudak](https://github.com/volkansah)
-
+## Copyright
+- [VolkanSah on Github](https://github.com/volkansah)
+- [Developer Site](https://volkansah.github.io)
+- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
 ## License
-This script is released under the MIT License.
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
+
+
 
