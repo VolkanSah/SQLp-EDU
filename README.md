@@ -55,12 +55,14 @@ This script is for educational purposes only and should not be used for any ille
 
 ## issues
 Issues to this script are not accepted as it is intended for educational purposes only and not for production use.
-## Copyright
+### Thank you for your support!
+- If you appreciate my work, please consider [becoming a 'Sponsor'](https://github.com/sponsors/volkansah), giving a :star: to my projects, or following me. 
+### Copyright
 - [VolkanSah on Github](https://github.com/volkansah)
 - [Developer Site](https://volkansah.github.io)
-- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
-## License
-This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
+
+### License
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details
 
 
 
